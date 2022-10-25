@@ -1,3 +1,5 @@
+# Overview
+This is a mycroft skill that can be used to play youtube using vlc library. (Cannot be used as headless)
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/video.svg" card_color="#CF4F38" width="50" height="50" style="vertical-align:bottom"/> Play Youtube
 Say what you want to listen on youtube
 
